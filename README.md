@@ -28,3 +28,5 @@ Project Closing:
 ## Project Presentation & System Demonstration
 
 Sample Result
+
+## Project Summary
