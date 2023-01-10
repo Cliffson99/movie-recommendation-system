@@ -4,16 +4,19 @@ This is a artificial intelligence project to provide a movie recommendation to t
 
 ## Project Management Plan
 
-Project Summary: 
+Project Overview: 
+
+
+Project Initiating:
 
 
 Project Planning:
 
 
-Project Implementation:
+Project Executing:
 
 
-Project Execution:
+Project Monitoring and Controlling:
 
 
 Project Closing:
