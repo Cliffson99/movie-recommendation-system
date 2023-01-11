@@ -11,6 +11,7 @@ Project Overview:
 
 Project Initiating:
 With project planning, the organization recognizes that a new project exists and requires the completion of a business case and project charter. 
+https://github.com/Cliffson99/movie-recommendation-system/issues/1#issue-1529825881
 
 Project Planning:
 Proejct planning is about completing the WBS and scope statement, project schedule and cost estimate. 
