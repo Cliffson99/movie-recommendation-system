@@ -10,10 +10,10 @@ Project Overview:
 
 
 Project Initiating:
-
+With project planning, the organization recognizes that a new project exists and requires the completion of a business case and project charter. 
 
 Project Planning:
-
+Proejct planning is about completing the WBS and scope statement, project schedule and cost estimate. 
 
 Project Executing:
 
