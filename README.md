@@ -16,7 +16,7 @@ Project Planning:
 3) Project Work Breakdown Structure: https://github.com/Cliffson99/movie-recommendation-system/issues/6#issue-1529927061 (WBS)
 4) Project Cost Estimation: https://github.com/Cliffson99/movie-recommendation-system/issues/7#issue-1529927398
 
-Project Executing:
+Project Executing: https://github.com/Cliffson99/movie-recommendation-system/issues/11#issue-1529941683
 
 
 Project Monitoring and Controlling:
