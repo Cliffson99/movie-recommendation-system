@@ -25,10 +25,3 @@ Project Monitoring and Controlling:
 
 Project Closing: 
 https://github.com/Cliffson99/movie-recommendation-system/issues/10#issue-1529928865
-
-
-## Project Presentation & System Demonstration
-
-Sample Result
-
-## Project Summary & Conclusion
